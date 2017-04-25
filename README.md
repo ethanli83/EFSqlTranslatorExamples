@@ -1,0 +1,2 @@
+# EFSqlTranslatorExamples
+Examples for EFSqlTranslator
